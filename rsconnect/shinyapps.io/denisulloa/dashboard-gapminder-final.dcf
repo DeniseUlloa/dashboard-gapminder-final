@@ -1,0 +1,10 @@
+name: dashboard-gapminder-final
+title:
+username: denisulloa
+account: denisulloa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14851464
+bundleId: 10366442
+url: https://denisulloa.shinyapps.io/dashboard-gapminder-final/
+version: 1
